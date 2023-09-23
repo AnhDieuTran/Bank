@@ -13,6 +13,7 @@ Lãi suất không kỳ hạn là có thể rút tiền bất cứ lúc nào, l�
 Có kỳ hạn là phải chờ đến hết hạn tháng mới được rút và chia theo tháng. 
 Có 2 loại khách hàng là Cá nhân và Tổ chức. Với lãi suất như bảng dưới đây:
 ![img.png](img.png)
+
 Tính số lãi sau khi gửi.
 
 Số tiền lãi = Số tiền gửi x lãi suất (%/năm) x số ngày thực gửi/365
