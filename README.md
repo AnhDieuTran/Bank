@@ -41,10 +41,10 @@ Gồm 15 test case.
 ## IV. Kiểm thử dòng điều khiển:
 Gồm 18 test case.
 
-
+![control.png](control.png)
 
 <a name = "v-luồng-dữ-liệu"/></a>
 ## III.	Kiểm thử luồng dữ liệu
 Gồm 12 test case.
 
-
+![data.png](data.png)
