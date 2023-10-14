@@ -4,6 +4,8 @@
 - [I. Bài toán](#i-bài-toán)
 - [II. Phân hoạch tương đương](#ii-phân-hoạch-tương-đương)
 - [III. Bảng quyết định](#iii-bảng-quyết-định)
+- [IV. Kiểm thử dòng điều khiển](#iv-dòng-điều-khiển)
+- [V. Kiểm thử luồng dữ liệu](#v-luồng-dữ-liệu)
 
 
 <a name = "i-bài-toán"></a>
@@ -33,3 +35,16 @@ Gồm 28 test case.
 Chi tiết trong file BankTest.java ở thư mục /src/main/test.
 
 Gồm 15 test case.
+
+
+<a name = "#iv-dòng-điều-khiển"/></a>
+## IV. Kiểm thử dòng điều khiển:
+Gồm 18 test case.
+
+
+
+<a name = "v-luồng-dữ-liệu"/></a>
+## III.	Kiểm thử luồng dữ liệu
+Gồm 12 test case.
+
+
